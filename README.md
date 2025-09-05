@@ -20,6 +20,21 @@
 </div>
 
 ## 1. Giới thiệu hệ thống
+Hệ thống Trò chơi Oẳn Tù Tì qua mạng được xây dựng nhằm cung cấp một nền tảng giải trí đơn giản nhưng hấp dẫn, cho phép hai hoặc nhiều người chơi tham gia thi đấu với nhau hoặc người với máy thông qua kết nối mạng Internet.
+Ứng dụng được phát triển bằng Java Swing để tạo giao diện đồ họa thân thiện, dễ sử dụng, đồng thời sử dụng giao thức TCP để truyền tải dữ liệu giữa Client và Server một cách ổn định và tin cậy.
+Hệ thống được thiết kế theo mô hình Client–Server:
+- Client: Chạy trên máy người chơi, hiển thị giao diện, gửi lựa chọn (Kéo – Búa – Bao) và nhận kết quả từ Server.
+- Server: Quản lý kết nối, ghép cặp người chơi, xử lý luật chơi, tính toán kết quả và lưu trữ dữ liệu trận đấu vào File hoặc Cơ sở dữ liệu (SQLite/MySQL).
+Đặc điểm nổi bật:
+- Chơi trực tuyến: Người chơi có thể kết nối từ nhiều máy khác nhau qua mạng LAN hoặc Internet.
+- Giao diện trực quan: Sử dụng Java Swing với các form đăng nhập, sảnh chờ, phòng chơi.
+- Truyền dữ liệu dạng đối tượng: Sử dụng cơ chế tuần tự hóa (Serialization) của Java để gửi/nhận các đối tượng như thông tin người chơi, kết quả trận đấu.
+- Lưu trữ lịch sử: Server lưu lại thông tin các trận đấu để phục vụ thống kê hoặc tra cứu.
+- Bảo đảm tính toàn vẹn dữ liệu: Giao thức TCP đảm bảo dữ liệu được truyền đầy đủ, đúng thứ tự.
+Mục tiêu của hệ thống:
+- Mang lại trải nghiệm giải trí nhanh gọn, dễ tiếp cận.
+- Minh họa việc kết hợp lập trình giao diện Java Swing với lập trình mạng và xử lý dữ liệu.
+- Tạo nền tảng để mở rộng thành các trò chơi mạng khác trong tương lai
 
 ## 2.Ngôn ngữ & Công nghệ chính
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
