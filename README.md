@@ -26,17 +26,6 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 
-
-### Cơ sở dữ liệu
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### Môi trường chạy
-
-
-</div>
-
----
-
 ## 3. Hình ảnh các giao diễn
 
 
