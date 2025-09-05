@@ -19,17 +19,16 @@
 
 </div>
 
----
 ## 1. Giới thiệu hệ thống
 
-### 2.Ngôn ngữ & Công nghệ chính
+## 2.Ngôn ngữ & Công nghệ chính
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 
 ## 3. Hình ảnh các giao diễn
 
 
-## 🚀 4. Các project đã thực hiện dựa trên Platform
+## 4. Các project đã thực hiện dựa trên Platform
 
 Một số project sinh viên đã thực hiện:
 - #### [Khoá 16]() (Coming soon)
