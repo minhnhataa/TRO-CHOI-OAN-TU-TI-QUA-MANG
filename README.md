@@ -38,6 +38,10 @@ Mục tiêu của hệ thống:
 
 ## 2.Ngôn ngữ & Công nghệ chính
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
+[![TCP Socket](https://img.shields.io/badge/TCP%20Socket-007396?style=for-the-badge&logo=socketdotio&logoColor=white)](https://docs.oracle.com/javase/tutorial/networking/sockets/)
+[![Java Serialization](https://img.shields.io/badge/Java%20Serialization-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/platform/serialization/spec/serialTOC.html)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 
 ## 3. Hình ảnh các giao diễn
