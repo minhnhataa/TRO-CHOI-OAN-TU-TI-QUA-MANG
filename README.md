@@ -20,7 +20,7 @@
 </div>
 
 ## 1. Giới thiệu hệ thống
-Hệ thống Trò chơi Oẳn Tù Tì qua mạng được xây dựng nhằm cung cấp một nền tảng giải trí đơn giản nhưng hấp dẫn, cho phép hai hoặc nhiều người chơi tham gia thi đấu với nhau hoặc người với máy thông qua kết nối mạng Internet.
+   Hệ thống Trò chơi Oẳn Tù Tì qua mạng được xây dựng nhằm cung cấp một nền tảng giải trí đơn giản nhưng hấp dẫn, cho phép hai hoặc nhiều người chơi tham gia thi đấu với nhau hoặc người với máy thông qua kết nối mạng Internet.
 Ứng dụng được phát triển bằng Java Swing để tạo giao diện đồ họa thân thiện, dễ sử dụng, đồng thời sử dụng giao thức TCP để truyền tải dữ liệu giữa Client và Server một cách ổn định và tin cậy.
 Hệ thống được thiết kế theo mô hình Client–Server:
 - Client: Chạy trên máy người chơi, hiển thị giao diện, gửi lựa chọn (Kéo – Búa – Bao) và nhận kết quả từ Server.
