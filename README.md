@@ -23,8 +23,9 @@
 ## 1. Giới thiệu hệ thống
 
 ### 2.Ngôn ngữ & Công nghệ chính
-<div align="center">
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+
 
 ### Cơ sở dữ liệu
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
