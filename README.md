@@ -51,5 +51,16 @@ Mục tiêu của hệ thống:
 Một số project sinh viên đã thực hiện:
 - #### [Khoá 16]() (Coming soon)
 ## 5. Các bước cài đặt
+Cài đặt JDK 8+ (Java Development Kit).
 
+Kiểm tra: mở CMD → gõ java -version.
+
+Cài đặt Eclipse IDE for Java Developers.
+
+Cài đặt MySQL Server + MySQL Workbench.
+
+Trong khi cài nhớ tạo user root với mật khẩu dễ nhớ (VD: 123456).
+
+Tải MySQL Connector/J (JDBC Driver) từ:
+👉 https://dev.mysql.com/downloads/connector/j/
 
