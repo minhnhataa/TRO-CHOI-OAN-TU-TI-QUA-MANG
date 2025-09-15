@@ -54,3 +54,13 @@ Một số project sinh viên đã thực hiện:
 ## 5. Các bước cài đặt
 
 
+
+
+
+## Thông tin cá nhân
+Họ tên: Đậu Cao Minh Nhật.
+Lớp: CNTT 16-03.
+Email: daucaominhnhat@gmail.com@gmail.com.
+
+© 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+
