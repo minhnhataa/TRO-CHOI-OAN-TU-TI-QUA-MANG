@@ -1,0 +1,10 @@
+package common;
+import java.io.Serializable;
+public enum MessageType implements Serializable {
+    REGISTER, LOGIN, LOGIN_OK, LOGIN_FAIL,
+    JOIN_ROOM, ROOM_LIST, ROOM_JOINED, ROOM_FULL, START_MATCH,
+    PLAY_MOVE, MATCH_RESULT, OPPONENT_LEFT,
+    RECHARGE, RECHARGE_OK, RECHARGE_FAIL,
+    GET_RANKING, RANKING_DATA,
+    ERROR, INFO, LOGOUT
+}
