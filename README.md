@@ -59,9 +59,9 @@ Mục tiêu của hệ thống:
 - chạy MainClient 2 lần để hiện 2 giao diện giả lập để chơi
 - tài khoản có thể đăng ký theo mỗi cá nhân 
 ## Thông tin cá nhân
-**Họ tên**: Đậu Cao Minh Nhật.
-**Lớp**: CNTT 16-03.
-**Email**: daucaominhnhat@gmail.com.
+-**Họ tên**: Đậu Cao Minh Nhật.
+-**Lớp**: CNTT 16-03.
+-**Email**: daucaominhnhat@gmail.com.
 
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
 
