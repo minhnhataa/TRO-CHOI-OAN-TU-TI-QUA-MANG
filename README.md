@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-     Trò chơi Oẳn Tù Tì qua mạng 
+     TRÒ CHƠI OẲN TÙ TÌ QUA MẠNG
 </h2>
 <div align="center">
     <p align="center">
