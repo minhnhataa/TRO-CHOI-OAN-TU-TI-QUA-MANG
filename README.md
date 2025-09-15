@@ -52,7 +52,7 @@ Mục tiêu của hệ thống:
 - **Hệ điều hành**: Windows, macOS, hoặc Linux
 - **Môi trường phát triển**: IDE (IntelliJ IDEA, Eclipse, VS Code) hoặc terminal/command prompt
 - **Bộ nhớ**: Tối thiểu 128MB RAM
-- 
+
 ###  Cài đặt và triển khai
 
 - chạy MainServer sau khi hiện console chờ Client kết nối
