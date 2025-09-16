@@ -46,7 +46,7 @@ Mục tiêu của hệ thống:
 
 ## 3. Hình ảnh các giao diễn
 <p align="center">
-  <img src="images/dangnhap.jpg" alt="Ảnh 1" width="800"/>
+  <img src="images/dangnhap.jpg" alt="Ảnh 1" width="500"/>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/sanhcho.jpg" alt="Ảnh 2" width="700"/>
+  <img src="images/sanhcho.jpg" alt="Ảnh 2" width="500"/>
 </p>
 <p align="center">
   <em> Hình 2: Ảnh giao diện sảnh chờ </em>
