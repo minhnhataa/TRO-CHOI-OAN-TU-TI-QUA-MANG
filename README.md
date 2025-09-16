@@ -50,14 +50,14 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: Ảnh giao diện chat giữa Client-Server  </em>
+  <em>Hình 1: Ảnh giao diện đăng nhập đăng ký   </em>
 </p>
 
 <p align="center">
   <img src="images/anhClientChatServer.jpg" alt="Ảnh 2" width="700"/>
 </p>
 <p align="center">
-  <em> Hình 2: Client chat với Server</em>
+  <em> Hình 2: Ảnh giao diện sảnh chờ </em>
 </p>
 
 
@@ -65,23 +65,16 @@ Mục tiêu của hệ thống:
   <img src="images/anhLichSuChatLuuTxt.jpg" alt="Ảnh 3" width="500"/>
 </p>
 <p align="center">
-  <em> Hình 3: Ảnh lịch sử chat được lưu vào file txt </em>
+  <em> Hình 3: Ảnh giao diện bảnh xếp hạng  </em>
 </p>
 
 <p align="center">
     <img src="images/anhServerxoaDL.jpg" alt="Ảnh 4" width="500"/>
 </p>
 <p align="center">
-  <em> Hình 4: Ảnh Server xóa dữ liệu</em>
+  <em> Hình 4: Ảnh giao diện phòng đấu</em>
 </p>
 
-
-<p align="center">
-  <img src="images/anhServerngatKetNoiClient.jpg" alt="Ảnh 5" width="400"/>
-</p>
-<p align="center">
-  <em> Hình 5: Ảnh Server ngắt kết nối với CLient</em>
-</p>
 
 ## 4. Hướng dẫn cài đặt và sử dụng
  **Java Development Kit (JDK)**: Phiên bản 8 trở lên
