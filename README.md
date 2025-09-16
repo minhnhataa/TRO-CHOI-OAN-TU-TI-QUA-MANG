@@ -46,7 +46,7 @@ Mục tiêu của hệ thống:
 
 ## 3. Hình ảnh các giao diễn
 <p align="center">
-  <img src="images/anhGiaoDien.jpg" alt="Ảnh 1" width="800"/>
+  <img src="images/dangnhap.jpg" alt="Ảnh 1" width="800"/>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/anhClientChatServer.jpg" alt="Ảnh 2" width="700"/>
+  <img src="images/sanhcho.jpg" alt="Ảnh 2" width="700"/>
 </p>
 <p align="center">
   <em> Hình 2: Ảnh giao diện sảnh chờ </em>
@@ -62,14 +62,14 @@ Mục tiêu của hệ thống:
 
 
 <p align="center">
-  <img src="images/anhLichSuChatLuuTxt.jpg" alt="Ảnh 3" width="500"/>
+  <img src="images/bxh.jpg" alt="Ảnh 3" width="500"/>
 </p>
 <p align="center">
   <em> Hình 3: Ảnh giao diện bảnh xếp hạng  </em>
 </p>
 
 <p align="center">
-    <img src="images/anhServerxoaDL.jpg" alt="Ảnh 4" width="500"/>
+    <img src="images/trandau.jpg" alt="Ảnh 4" width="500"/>
 </p>
 <p align="center">
   <em> Hình 4: Ảnh giao diện phòng đấu</em>
