@@ -80,7 +80,6 @@ Mục tiêu của hệ thống:
  **Java Development Kit (JDK)**: Phiên bản 8 trở lên
 - **Hệ điều hành**: Windows, macOS, hoặc Linux
 - **Môi trường phát triển**: IDE (IntelliJ IDEA, Eclipse, VS Code) hoặc terminal/command prompt
-- **Bộ nhớ**: Tối thiểu 128MB RAM
 
 ###  Cài đặt và triển khai
 
