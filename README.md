@@ -148,7 +148,25 @@ Mục tiêu của hệ thống:
 - **Môi trường phát triển**: IDE (IntelliJ IDEA, Eclipse, VS Code) hoặc terminal/command prompt
 
 ###  Cài đặt và triển khai
+## Cài đặt
+- **JDK**
+  - [Oracle JDK](https://www.oracle.com/java/technologies/downloads/)
+  - [OpenJDK](https://openjdk.org/)
+  - [Adoptium Temurin](https://adoptium.net/)
 
+- **Eclipse IDE**
+  - [Eclipse Downloads](https://www.eclipse.org/downloads/)
+
+- **MySQL**
+  - [MySQL Installer (Windows)](https://dev.mysql.com/downloads/installer/)
+  - [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
+  - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+
+- **FlatLaf**
+  - [FlatLaf Website](https://www.formdev.com/flatlaf/)
+  - [FlatLaf GitHub Releases](https://github.com/JFormDesigner/FlatLaf/releases)
+
+## Triển khai
 - chạy MainServer sau khi hiện console chờ Client kết nối
 - đăng nhập tài khoản admin (tk: admin/ mk: admin) để sử dụng chức năng quản trị viên
 - chạy GameClient 2 lần để hiện 2 giao diện giả lập để chơi
