@@ -37,16 +37,14 @@ Mục tiêu của hệ thống:
 - Tạo nền tảng để mở rộng thành các trò chơi mạng khác trong tương lai
 
 ## 2.Ngôn ngữ & Công nghệ chính
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Java Swing](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
-[![TCP Socket](https://img.shields.io/badge/TCP%20Socket-007396?style=for-the-badge&logo=socketdotio&logoColor=white)](https://docs.oracle.com/javase/tutorial/networking/sockets/)
-[![Java Serialization](https://img.shields.io/badge/Java%20Serialization-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/platform/serialization/spec/serialTOC.html)
-[![JDK](https://img.shields.io/badge/JDK-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/downloads/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)](https://www.eclipse.org/downloads/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/)
-[![FlatLaf](https://img.shields.io/badge/FlatLaf-2C2C2C?style=for-the-badge&logo=java&logoColor=white)](https://github.com/JFormDesigner/FlatLaf/releases)
-
-
+[![Java](https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Java Swing](https://img.shields.io/badge/Java%20Swing-1E90FF?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)
+[![TCP Socket](https://img.shields.io/badge/TCP%20Socket-1E90FF?style=for-the-badge&logo=socketdotio&logoColor=white)](https://docs.oracle.com/javase/tutorial/networking/sockets/)
+[![Java Serialization](https://img.shields.io/badge/Java%20Serialization-1E90FF?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/8/docs/platform/serialization/spec/serialTOC.html)
+[![JDK](https://img.shields.io/badge/JDK-1E90FF?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/downloads/)
+[![Eclipse](https://img.shields.io/badge/Eclipse-1E90FF?style=for-the-badge&logo=eclipseide&logoColor=white)](https://www.eclipse.org/downloads/)
+[![MySQL](https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/)
+[![FlatLaf](https://img.shields.io/badge/FlatLaf-1E90FF?style=for-the-badge&logo=java&logoColor=white)](https://github.com/JFormDesigner/FlatLaf/releases)
 
 ## 3. Hình ảnh các giao diễn
 <p align="center">
