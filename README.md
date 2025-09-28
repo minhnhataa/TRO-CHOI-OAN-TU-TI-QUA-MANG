@@ -149,22 +149,26 @@ Mục tiêu của hệ thống:
 
 ###  Cài đặt và triển khai
 ## Cài đặt
-- **JDK**
-  - [Oracle JDK](https://www.oracle.com/java/technologies/downloads/)
-  - [OpenJDK](https://openjdk.org/)
-  - [Adoptium Temurin](https://adoptium.net/)
+- **JDK (Java Development Kit)**  
+  Bộ công cụ để biên dịch và chạy chương trình Java.  
+  - [Oracle JDK](https://www.oracle.com/java/technologies/downloads/)  
+  - [OpenJDK](https://openjdk.org/)  
+  - [Adoptium Temurin](https://adoptium.net/)  
 
-- **Eclipse IDE**
-  - [Eclipse Downloads](https://www.eclipse.org/downloads/)
+- **Eclipse IDE**  
+  Môi trường lập trình Java phổ biến, hỗ trợ viết code, debug, quản lý project.  
+  - [Eclipse Downloads](https://www.eclipse.org/downloads/)  
 
-- **MySQL**
-  - [MySQL Installer (Windows)](https://dev.mysql.com/downloads/installer/)
-  - [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
-  - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+- **MySQL (Server & Workbench)**  
+  Hệ quản trị cơ sở dữ liệu để lưu trữ thông tin người dùng, giao dịch,...  
+  - [MySQL Installer (Windows)](https://dev.mysql.com/downloads/installer/)  
+  - [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)  
+  - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) (công cụ trực quan để quản lý database)  
 
-- **FlatLaf**
-  - [FlatLaf Website](https://www.formdev.com/flatlaf/)
-  - [FlatLaf GitHub Releases](https://github.com/JFormDesigner/FlatLaf/releases)
+- **FlatLaf**  
+  Thư viện giao diện giúp ứng dụng Java Swing có giao diện hiện đại, đẹp mắt.  
+  - [FlatLaf Website](https://www.formdev.com/flatlaf/)  
+  - [FlatLaf GitHub Releases](https://github.com/JFormDesigner/FlatLaf/releases)  
 
 ## Triển khai
 - chạy MainServer sau khi hiện console chờ Client kết nối
