@@ -46,33 +46,99 @@ Mục tiêu của hệ thống:
 
 ## 3. Hình ảnh các giao diễn
 <p align="center">
-  <img src="images/dangnhap.jpg" alt="Ảnh 1" width="500"/>
+  <img src="images/" alt="Ảnh 1" width="500"/>
 </p>
 
 <p align="center">
-  <em>Hình 1: Ảnh giao diện đăng nhập đăng ký   </em>
+  <em>Hình 1: mô tả   </em>
 </p>
 
 <p align="center">
-  <img src="images/sanhcho.jpg" alt="Ảnh 2" width="500"/>
-</p>
-<p align="center">
-  <em> Hình 2: Ảnh giao diện sảnh chờ </em>
-</p>
-
-
-<p align="center">
-  <img src="images/bxh.jpg" alt="Ảnh 3" width="500"/>
-</p>
-<p align="center">
-  <em> Hình 3: Ảnh giao diện bảnh xếp hạng  </em>
+  <img src="images/" alt="Ảnh 1" width="500"/>
 </p>
 
 <p align="center">
-    <img src="images/trandau.jpg" alt="Ảnh 4" width="500"/>
+  <em>Hình 1: mô tả   </em>
 </p>
+
 <p align="center">
-  <em> Hình 4: Ảnh giao diện phòng đấu</em>
+  <img src="images/" alt="Ảnh 1" width="500"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: mô tả   </em>
+</p>
+
+<p align="center">
+  <img src="images/" alt="Ảnh 1" width="500"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: mô tả   </em>
+</p>
+
+<p align="center">
+  <img src="images/" alt="Ảnh 1" width="500"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: mô tả   </em>
+</p>
+
+<p align="center">
+  <img src="images/" alt="Ảnh 1" width="500"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: mô tả   </em>
+</p>
+
+<p align="center">
+  <img src="images/" alt="Ảnh 1" width="500"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: mô tả   </em>
+</p>
+
+<p align="center">
+  <img src="images/" alt="Ảnh 1" width="500"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: mô tả   </em>
+</p>
+
+<p align="center">
+  <img src="images/" alt="Ảnh 1" width="500"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: mô tả   </em>
+</p>
+
+<p align="center">
+  <img src="images/" alt="Ảnh 1" width="500"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: mô tả   </em>
+</p>
+
+<p align="center">
+  <img src="images/" alt="Ảnh 1" width="500"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: mô tả   </em>
+</p>
+
+<p align="center">
+  <img src="images/" alt="Ảnh 1" width="500"/>
+</p>
+
+<p align="center">
+  <em>Hình 1: mô tả   </em>
 </p>
 
 
@@ -84,7 +150,8 @@ Mục tiêu của hệ thống:
 ###  Cài đặt và triển khai
 
 - chạy MainServer sau khi hiện console chờ Client kết nối
-- chạy MainClient 2 lần để hiện 2 giao diện giả lập để chơi
+- đăng nhập tài khoản admin (tk: admin/ mk: admin) để sử dụng chức năng quản trị viên
+- chạy GameClient 2 lần để hiện 2 giao diện giả lập để chơi
 - tài khoản có thể đăng ký theo mỗi cá nhân 
 ## Thông tin cá nhân
 - **Họ tên**: Đậu Cao Minh Nhật.
