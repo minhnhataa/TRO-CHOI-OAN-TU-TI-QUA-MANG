@@ -52,7 +52,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 1: Giao diện Đăng nhập/Đăng ký   </em>
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 2: mô tả   </em>
+  <em>Hình 2: Giao diện Admin   </em>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 3: mô tả   </em>
+  <em>Hình 3: giao diện sảnh chờ   </em>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 4: mô tả   </em>
+  <em>Hình 4: Giao diện lịch sử đấu cá nhân   </em>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 5: mô tả   </em>
+  <em>Hình 5: Giao diện bảng xếp hạng   </em>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 6: mô tả   </em>
+  <em>Hình 6: Giao diện yêu cầu Admin nạp tiền   </em>
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 7: mô tả   </em>
+  <em>Hình 7: Giao diện duyệt Nạp tiền của Admin   </em>
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 8: mô tả   </em>
+  <em>Hình 8: Giao dện Xem lịch sử đấu người chơi của Admin   </em>
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 9: mô tả   </em>
+  <em>Hình 9: Giao diện tạo phòng   </em>
 </p>
 
 <p align="center">
@@ -124,24 +124,9 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 10: mô tả   </em>
+  <em>Hình 10: Giao diện trận đấu   </em>
 </p>
 
-<p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
-</p>
-
-<p align="center">
-  <em>Hình 11: mô tả   </em>
-</p>
-
-<p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
-</p>
-
-<p align="center">
-  <em>Hình 12: mô tả   </em>
-</p>
 
 
 ## 4. Hướng dẫn cài đặt và sử dụng
