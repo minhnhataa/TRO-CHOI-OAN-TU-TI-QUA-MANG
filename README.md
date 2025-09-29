@@ -48,7 +48,7 @@ Mục tiêu của hệ thống:
 
 ## 3. Hình ảnh các giao diễn
 <p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
+  <img src="images/2dangnhap" alt="Ảnh 1" width="500"/>
 </p>
 
 <p align="center">
