@@ -48,7 +48,7 @@ Mục tiêu của hệ thống:
 
 ## 3. Hình ảnh các giao diễn
 <p align="center">
-  <img src="images/2dangnhap" alt="Ảnh 1" width="500"/>
+  <img src="images/2dangnhap.jpg" alt="Ảnh 1" width="500"/>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
+  <img src="images/3giaodienqtv.jpg" alt="Ảnh 2" width="500"/>
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
+  <img src="images/" alt="Ảnh 3" width="500"/>
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
+  <img src="images/" alt="Ảnh 4" width="500"/>
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
+  <img src="images/" alt="Ảnh 5" width="500"/>
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
+  <img src="images/" alt="Ảnh 6" width="500"/>
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
+  <img src="images/" alt="Ảnh 7" width="500"/>
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
+  <img src="images/" alt="Ảnh 8" width="500"/>
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
+  <img src="images/" alt="Ảnh 9" width="500"/>
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <img src="images/" alt="Ảnh 1" width="500"/>
+  <img src="images/" alt="Ảnh 10" width="500"/>
 </p>
 
 <p align="center">
