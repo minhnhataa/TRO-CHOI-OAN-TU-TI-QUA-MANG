@@ -60,7 +60,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 2: mô tả   </em>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 3: mô tả   </em>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 4: mô tả   </em>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 5: mô tả   </em>
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 6: mô tả   </em>
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 7: mô tả   </em>
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 8: mô tả   </em>
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 9: mô tả   </em>
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 10: mô tả   </em>
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 11: mô tả   </em>
 </p>
 
 <p align="center">
@@ -140,7 +140,7 @@ Mục tiêu của hệ thống:
 </p>
 
 <p align="center">
-  <em>Hình 1: mô tả   </em>
+  <em>Hình 12: mô tả   </em>
 </p>
 
 
